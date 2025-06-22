@@ -47,9 +47,9 @@
 
 ## 👨🏻‍💻 Currently Working On
 
-- 🏢 **Barangay System Project** — Solving real-world problems at the local government level
-- 🛒 **E-Commerce Features** — Cart, Buy Now, Product Images, and more
-- 🌱 Learning React and other frameworks
+- 🏢 **Barangay System Project**
+- 🛒 **E-Commerce Features**
+- 🌱 Learning other frameworks and technologies
 
 ---
 
