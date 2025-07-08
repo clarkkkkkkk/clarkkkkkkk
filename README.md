@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Software Developer • 🎨 Graphic Designer & UI/UX <br>
-  Lorem ipsum && Hello, World!<br>
+  Lorem ipsum & Hello, World!<br>
   <img src="https://komarev.com/ghpvc/?username=clarkkkkkkk&style=flat-square&color=red" />
 </p>
 
