@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 Software Developer • 🎨 Graphic Designer & UI/UX <br>
-  Passionate about building intuitive digital experiences and elegant code.<br>
+  Lorem ipsum && Hello, World!<br>
   <img src="https://komarev.com/ghpvc/?username=clarkkkkkkk&style=flat-square&color=red" />
 </p>
 
