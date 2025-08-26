@@ -40,10 +40,9 @@
 
 ## 👨🏻‍💻 Currently Working On
 
+- 🤫 **Secret**
 - ☁️ **Weather Application Nation Wide using API**
-- 🏢 **Barangay System Project**
-- 🛒 **E-Commerce Features**
-- 🌱 Learning other frameworks and technologies
+- 🌱 **Learning other frameworks and technologies**
 
 ---
 
