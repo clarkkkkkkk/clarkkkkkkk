@@ -41,7 +41,7 @@
 ## 👨🏻‍💻 Currently Working On
 
 - 🤫 **Secret**
-- ☁️ **Weather Application Nation Wide using API**
+- 🔧 **Back-end Technologies**
 - 🌱 **Learning other frameworks and technologies**
 
 ---
