@@ -40,7 +40,6 @@
 
 ## 👨🏻‍💻 Currently Working On
 
-- 🤫 **Secret**
 - 🔧 **Back-end Technologies**
 - 🌱 **Learning other frameworks and technologies**
 
