@@ -37,8 +37,9 @@
 
 ---
 
-## 👨🏻‍💻 Currently Working On
+### Currently Working On
 
+- 👨🏻‍💻 **Capstone Project**
 - 🔧 **Back-end Technologies**
 - 🌱 **Learning other frameworks and technologies**
 
