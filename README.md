@@ -37,14 +37,6 @@
 
 ---
 
-### Currently Working On
-
-- 👨🏻‍💻 **Capstone Project**
-- 🔧 **Back-end Technologies**
-- 🌱 **Learning other frameworks and technologies**
-
----
-
 ## 🚀 Reach me out or Follow me @:
 <div align="left">
   <a href="https://www.tiktok.com/@clarkkentttttttttttttttt" target="_blank"><img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tiktok logo"  /></a>
