@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Clark</h1>
 
 <p align="center">
-  💻 Software Developer • 🎨 Graphic Designer <br>
+  💻 Software Developer<br>
   <img src="https://komarev.com/ghpvc/?username=clarkkkkkkk&style=flat-square&color=red" />
 </p>
 
