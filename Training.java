@@ -8,7 +8,7 @@ public class Training {
         int num1, num2;
         String symbol;
         
-        float result; // <-- temporary usage
+        float result; // <-- temporary usage sausage
         
         System.out.println("Welcome to Calculator");
         System.out.println("Available Operator");
